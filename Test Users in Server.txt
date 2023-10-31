@@ -1,0 +1,26 @@
+Test Users in Server:
+Non-admin
+username: owens_emery
+email: emowens@mail.com
+password: oerdam,234
+
+username: todd_marin
+email: matodd@mail.com
+password: qw214os
+
+username: rowland_colby
+email: corowland@mail.com
+password: sjfsdfjeop23
+
+username: parker_gregory
+email: grparker@mail.com
+password: 097ihfms
+
+Admin
+username: krueger_malcolm
+email: makrueger@mail.com
+password: 45674^^&4
+
+username: herring_kyle
+email: kyherring@mail.com
+password: 24mleo-32.
