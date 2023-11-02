@@ -22,6 +22,8 @@ export default function ProductCatalog() {
         }
       } catch (error) {
         console.error('Error fetching products:', error);
+        console.error('Error status:', error.status);
+        console.error('Error response text:', error.statusText);
       }
     };
 
